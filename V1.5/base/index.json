@@ -74,7 +74,7 @@
     "logd": "2025.10.30~6f78fa49-r1",
     "losetup": "2.41.3-r1",
     "lua": "5.1.5-r11",
-    "luci-app-argon-config": "26.092.72482~24e1fcd",
+    "luci-app-argon-config": "26.093.48217~a52e1c7",
     "luci-app-aw1k-led": "1.0-r5",
     "luci-app-modeminfo": "1.0-r1",
     "luci-app-netstat": "1.2-r6",
