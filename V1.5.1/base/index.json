@@ -85,6 +85,7 @@
     "luci-app-qmodem-sms": "3.0.2-r1",
     "luci-app-qmodem-ttl": "3.0.2-r1",
     "luci-app-ramfree": "1.0-r1",
+    "luci-app-turboacc": "0",
     "luci-theme-argon": "2.3.2-r20250207",
     "microsocks": "1.0.5-r1",
     "mkf2fs": "1.16.0-r4",
